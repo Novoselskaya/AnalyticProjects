@@ -2,7 +2,7 @@
 
 Артефакты по аналитическому проекту лежат в `docs/`.
 
-### Ссылки на Яндекс.Доски
+### Ссылки на Яндекс.Доски со схемами контрактов систем
 
 - [Доска 1](https://boards.yandex.ru/whiteboard/?hash=0cd0d6066de5a56169088aad28e8e60a)
 - [Доска 2](https://boards.yandex.ru/whiteboard/?hash=d88e2e0fcaa69617bcf41790b396c1b3)
